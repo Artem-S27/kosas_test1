@@ -1,0 +1,12 @@
+.result-title {
+    display: flex;
+    align-items: center;
+}
+
+.result {
+    margin-left: 5px;
+}
+
+.input-block {
+    margin-bottom: 15px;
+}
